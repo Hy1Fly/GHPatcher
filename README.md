@@ -6,7 +6,9 @@
 - Exit GH
 - Download GHPatcher
 - Run GHPatcher
-- Apply Config Unpdate
+- Apply Config Update
+- Open GH
+- Enjoy
 ## Open source?
 - I don't want to Open source,Because there is no need.
 ## How to Work?
