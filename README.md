@@ -1,4 +1,4 @@
-# GHPatcher -- Patch for GreenHu3 Cfg.
+# GHPatcher -- Patch GreenHub Config.
 ## Download
 - On repository details website
 ## How to use?
